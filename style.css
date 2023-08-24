@@ -1,0 +1,32 @@
+html, body {
+    margin: 0;
+}
+
+#img_fundo {
+    background: url("favela-brasil.jpg");
+    height: 100vh;
+    text-align: center;
+}
+
+#titulo {
+    color: white;
+    padding-top: 20%;
+    font-size: 80px;
+    line-height: 0.6;
+    text-shadow: 1px 1px  brown;
+}
+
+#subtitulo {
+    color: white;
+    padding-left: 20%;
+    padding-right: 20%;
+    font-size: 30px;
+    text-shadow: 1px 1px  brown;
+}
+
+#acao {
+    color: white;
+    border: 2px solid;
+    padding: 10px 10px;
+    border-radius: 10%;
+}
